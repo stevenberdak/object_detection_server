@@ -20,7 +20,6 @@ The server is initialized with the following preset classes:
 
 -   backpack
 -   mouse
--   computer mouse
 -   vulture
 -   triceratops
 
