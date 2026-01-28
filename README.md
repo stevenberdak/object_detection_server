@@ -18,10 +18,10 @@ configuration options defined as constants in `index.py`.
 
 The server is initialized with the following preset classes:
 
--   backpack\
--   mouse\
--   computer mouse\
--   vulture\
+-   backpack
+-   mouse
+-   computer mouse
+-   vulture
 -   triceratops
 
 ## How It Works
